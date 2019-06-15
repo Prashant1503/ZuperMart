@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ZuperMart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Sign in-->
+
+    <string name="app_name_title">Zuper Mart</string>
+    <string name="enter_email_edt">Email address</string>
+    <string name="enter_password_edt">Enter Password</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="or_tv">OR</string>
+    <string name="Dont_have_an_account_tv">Not have an Account?Sign Up</string>
+    <string name="sign_in_with_fb">Sign in with Facebook</string>
+
+    <!--ENd-->
+
+
+    <!--Sign Up-->
+    <string name="register_email_edt">Email</string>
+    <string name="register_full_name_edt">Full Name</string>
+    <string name="regsister_phone_number_edt">Phone Number</string>
+    <string name="register_password_edt">Password (Atleast 8 character)</string>
+    <string name="register_confirm_password_edt">Confirm Password</string>
+    <string name="sign_up_btn_text">Sign up!</string>
+    <string name="already_have_an_account_tv">Already have an Account? Sign in!</string>
+
+    <!--End-->
+
+    <!--Reset Password Fragmenent-->
+
+    <string name="reset_password_title">Forgot Password?</string>
+    <string name="reset_password_suggestion">Dont worry,we just need your registered email address and its done!</string>
+    <string name="provide_email_edt">Provide your registered email here</string>
+    <string name="reset_password_btn">Reset Password </string>
+    <string name="checkInbox_reset_password">Check your Inbox after clicking the button above</string>
+    <string name="recovery_email_textView">Recovery email sent successfully! Check your inbox.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--End-->
+
+    <!--Navigation drawer activity-->
+
+    <string name="action_bar_title">Zuper Mart</string>
+
+
+    <!--End-->
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693455430766",
+    "firebase_url": "https://zupermart-dcb52.firebaseio.com",
+    "project_id": "zupermart-dcb52",
+    "storage_bucket": "zupermart-dcb52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693455430766:android:b0b50470edeaa486",
+        "android_client_info": {
+          "package_name": "com.example.pintu.zupermart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693455430766-c8l85jl6ddpb4q053070htpoln18mkqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsWo8TYIKuwDTKQTldot_reXJEkwmSyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693455430766-c8l85jl6ddpb4q053070htpoln18mkqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3023AE</color>
+    <color name="colorPrimaryDark">#3023AE</color>
+    <color name="colorAccent">#ffff</color>
+
+
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+
+
+    <!--Login Screen-->
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1AFFFFFF</color>
+    <color name="login_form_details_medium">#6fffffff</color>
+    
+    <color name="btnRed">#9f0000</color>
+    <color name="sucess_green">#11A10c</color>
+
+
+
+</resources>
